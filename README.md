@@ -14,5 +14,5 @@
 # Threat Intelligence Platforms
 
 1) MISP => https://github.com/MISP  ,  https://www.misp-project.org/
-2) AlienVault => https://otx.alienvault.com/
-3) 
+2) AlienVault => https://otx.alienvault.com/ , https://github.com/AlienVault-Labs
+
