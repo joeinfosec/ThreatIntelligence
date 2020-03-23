@@ -11,7 +11,7 @@
 8) The Importance of Cyber Threat Intelligence for CERTs => https://shorturl.at/ghzDX
 9) Guide to Cyber Threat Information Sharing => https://shorturl.at/fmzOT
 
-# Open Source Threat Intelligence Platforms
+# Threat Intelligence Platforms
 
 1) MISP => https://github.com/MISP  ,  https://www.misp-project.org/
 2) AlienVault => https://otx.alienvault.com/
